@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,6 +19,8 @@ namespace UD1_Ejemplo2_Consola_Propiedades
 
 
             empleado1.CodigoEmpleado = 20;
+
+            
         }
     }
 }
